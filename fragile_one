@@ -1,0 +1,6 @@
+key: C minor
+time_signature: 4/4
+tempo: 86 bpm
+plugins: bus has reverb with 0.7 seconds decay followed by amplitude modulation 1.43Hz at 75% depth
+drums: includes at least something from the attached drum machine
+rhythms: Includes rhythm somewhere of quarter, dotted eighth, sixteenth, sixteenth, eighth, dotted eighth, eighth (1, 2, a, 3, e, a, and)

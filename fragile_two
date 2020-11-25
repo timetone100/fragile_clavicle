@@ -1,0 +1,9 @@
+key: D major
+time_signature: 4/4
+tempo: 125 bpm
+plugins: bus has phaser with 0.40Hz rate followed by HY-lofi2 set to mode 3 (free plugin from link)
+links: https://rekkerd.org/hy-lofi2-free-bit-quantizer-waveshaper-filter-plugin-by-hy-plugins-exclusive/
+drums: Includes linn drum
+rhythm: Includes rhythm (quarter rest), eighth, eighth, quarter, eighth, eighth, quarter, quarter, eighth, eighth, eighth, eighth, quarter, quarter
+in other words (1) 2+3 4+1 2 3+4+1 2 (3 4)
+song_length: 3:01
